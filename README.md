@@ -3,7 +3,8 @@ Murat YÜCEDAĞ hocamızın Youtube üzerinde gerçekleştirdiği C# Eğitim Kam
 
 Not: Projelerde kodlar yorum satırı ( // ) olarak belirlenmiştir. Kodları yorum satırından çıkarmak için, kodları seçtikten sonra visual studio'nun menüsünde yer alan uncomment (aşağıdaki görselde sarı kutu içerisinde görebilirsiniz) butonuna tıklayabilirsiniz.
 
-![uncomment](https://github.com/user-attachments/assets/570d62be-0a68-48ba-8e75-834f6d5b56a6)
+![uncomment](https://github.com/user-attachments/assets/84257daf-e9e5-4994-a4c0-30d55e5b13c1)
+
 
 ## 01_MainSubjects Temel Konular
 Sıfırdan başlanılan eğitimde konsol üzerinde yazdırmayı öğrendim. Console.WriteLine() ve Console.Read() komutlarını kullanrak temel yazdırma mantığını öğrendim. Ayrıca derste işlenen string ve int türünden değişkenleri de bu ders sonunda öğrenmiş oldum.
