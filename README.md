@@ -23,3 +23,5 @@ Bu projemizde 4. projemizde yer alan döngülerin dışında foreach döngüsü 
 Örnek Sınav Sistemi Uygulaması ile beraber ismi ve notları girilen öğrencinin sınav ortalamaları hesaplanarak dersi geçip geçemediği senaryolarının nasıl yapıldığının farkına vardım.
 ## 📌 08_Methods Metotlar
 Metotlar projesinde kullanmamız gereken kodları tekrar tekrar yazmak yerine bir kere oluşturup, kullanmak istediğimiz zaman o metodu çağırarak kodlarımızı daha kolay yazabileceğimizi fark ettim. Geriye değer döndüren ve geriye değer döndürmeyen metotlar arasındaki farkı öğrendim.
+## 📌 09_DatabaseProject Veri Tabanı Projesi
+Projemizde veri tabanı olarak SQL'i kullandık. Burada veri tabanına bağlantı sağlamayı ve veri tabanında yer alan bir tabloya erişip listelemeyi öğrendim.
