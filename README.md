@@ -25,3 +25,5 @@ Bu projemizde 4. projemizde yer alan döngülerin dışında foreach döngüsü 
 Metotlar projesinde kullanmamız gereken kodları tekrar tekrar yazmak yerine bir kere oluşturup, kullanmak istediğimiz zaman o metodu çağırarak kodlarımızı daha kolay yazabileceğimizi fark ettim. Geriye değer döndüren ve geriye değer döndürmeyen metotlar arasındaki farkı öğrendim.
 ## 📌 09_DatabaseProject Veri Tabanı Projesi
 Projemizde veri tabanı olarak SQL'i kullandık. Burada veri tabanına bağlantı sağlamayı ve veri tabanında yer alan bir tabloya erişip listelemeyi öğrendim.
+## 📌 10_DatabaseCrud (Create-Read-Update-Delete) Veri Tabanında Verileri Oluşturma-Okuma-Güncelleme-Silme İşlemleri
+Eğitimin 101 ve 201 adımlarının son dersinde veri tabanına bağlanarak veri oluşturmayı, oluşturulan bu veri listelemeyi, güncellemeyi ve silmeyi öğrendim.
